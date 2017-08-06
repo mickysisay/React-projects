@@ -1,0 +1,53 @@
+.d {
+  background-color: black;
+  width: 15px;
+  height: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.a {
+  background-color: red;
+  width: 15px;
+  height: 15px;
+  border: 1px solid rgba(225, 255, 255, 0.5);
+}
+
+.block-now {
+  float: left;
+  display: inline;
+}
+
+.render-one {
+  width: 1200px;
+  border: 2px solid red;
+  background-color: silver;
+}
+
+.game-play {
+  position: relative;
+  width: 770px;
+  margin-top: 20px;
+  margin-left: 225px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  padding: 0;
+  border: 10px solid green;
+}
+
+button {
+  margin: 10px 20px 20px 20px;
+}
+
+.but {
+  margin-left: 40%;
+}
+
+body {
+  background-color: purple;
+}
+
+.foot {
+  font-family: cursive;
+  color: white;
+  font-size: 20px;
+}
